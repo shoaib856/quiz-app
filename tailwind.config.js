@@ -21,7 +21,8 @@ export default {
         "heading-lg": "64px",
         "heading-md": "36px",
         "heading-sm": "28px",
-        body: "20px",
+        "body-sm": "20px",
+        "body-md": "24px",
       },
       fontFamily: {
         rubik: "Rubik, sans-serif",
@@ -32,5 +33,6 @@ export default {
       },
     },
   },
+  darkMode: "class",
   plugins: [],
 };

@@ -1,889 +1,428 @@
 {
-  "questions": [
-    {
-      "id": 1,
-      "category": "HTML",
-      "question": "What does HTML stand for?",
-      "options": [
-        "Hyper Text Markup Language",
-        "Hyperlink and Text Markup Language",
-        "Home Tool Markup Language",
-        "Hyper Transfer Markup Language"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 2,
-      "category": "HTML",
-      "question": "What is the purpose of the 'alt' attribute in an HTML image tag?",
-      "options": [
-        "Alternative text for the image",
-        "Alignment of the image",
-        "Attribute for setting image color",
-        "Altitude of the image"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 3,
-      "category": "HTML",
-      "question": "Which tag is used to create an ordered list in HTML?",
-      "options": ["&lt;ul&gt;", "&lt;li&gt;", "&lt;ol&gt;", "&lt;dl&gt;"],
-      "correctOption": 2
-    },
-    {
-      "id": 4,
-      "category": "HTML",
-      "question": "In HTML, what is the purpose of the 'href' attribute?",
-      "options": [
-        "Header reference",
-        "Hypertext reference",
-        "Hyperlink reference",
-        "Hypertext resource"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 5,
-      "category": "HTML",
-      "question": "Which HTML tag is used for creating a hyperlink?",
-      "options": ["&lt;link&gt;", "&lt;a&gt;", "&lt;hlink&gt;", "&lt;url&gt;"],
-      "correctOption": 1
-    },
-    {
-      "id": 6,
-      "category": "HTML",
-      "question": "What is the function of the HTML 'canvas' element?",
-      "options": [
-        "Drawing graphics",
-        "Embedding videos",
-        "Creating tables",
-        "Defining links"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 7,
-      "category": "HTML",
-      "question": "Which HTML element is used to define the structure of an HTML document?",
-      "options": [
-        "&lt;head&gt;",
-        "&lt;html&gt;",
-        "&lt;body&gt;",
-        "&lt;structure&gt;"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 8,
-      "category": "HTML",
-      "question": "What does the 'DOCTYPE' declaration in HTML do?",
-      "options": [
-        "Defines the document type",
-        "Declares a new tag",
-        "Specifies the document style",
-        "Determines the document size"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 9,
-      "category": "HTML",
-      "question": "What does the 'colspan' attribute specify in an HTML table?",
-      "options": ["Column span", "Cell span", "Row span", "Table span"],
-      "correctOption": 0
-    },
-    {
-      "id": 10,
-      "category": "HTML",
-      "question": "Which HTML tag is used for creating a line break?",
-      "options": [
-        "&lt;br&gt;",
-        "&lt;lb&gt;",
-        "&lt;newline&gt;",
-        "&lt;break&gt;"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 11,
-      "category": "HTML",
-      "question": "What is the purpose of the HTML 'form' element?",
-      "options": [
-        "Creating links",
-        "Embedding videos",
-        "Defining a form for user input",
-        "Styling text"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 12,
-      "category": "HTML",
-      "question": "In HTML, what does the 'disabled' attribute do in a form input element?",
-      "options": [
-        "Enables the input",
-        "Disables the input",
-        "Defines input type",
-        "Sets input value"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 13,
-      "category": "HTML",
-      "question": "Which HTML tag is used for creating a table?",
-      "options": ["&lt;table&gt;", "&lt;tr&gt;", "&lt;td&gt;", "&lt;th&gt;"],
-      "correctOption": 0
-    },
-    {
-      "id": 14,
-      "category": "HTML",
-      "question": "What is the purpose of the 'target' attribute in an HTML anchor tag?",
-      "options": [
-        "Defines the link type",
-        "Sets the link color",
-        "Specifies the link destination",
-        "Targets a specific browser"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 15,
-      "category": "HTML",
-      "question": "Which HTML tag is used for creating an image?",
-      "options": [
-        "&lt;img&gt;",
-        "&lt;image&gt;",
-        "&lt;picture&gt;",
-        "&lt;graphic&gt;"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 16,
-      "category": "HTML",
-      "question": "What does the 'placeholder' attribute do in an HTML input element?",
-      "options": [
-        "Specifies a default value",
-        "Defines the input type",
-        "Sets the input color",
-        "Adds a border to the input"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 17,
-      "category": "HTML",
-      "question": "Which HTML tag is used for creating a division or section?",
-      "options": [
-        "&lt;section&gt;",
-        "&lt;div&gt;",
-        "&lt;block&gt;",
-        "&lt;group&gt;"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 18,
-      "category": "HTML",
-      "question": "In HTML, what is the purpose of the 'meta' tag?",
-      "options": [
-        "Defines metadata for the document",
-        "Specifies media files",
-        "Creates a navigation menu",
-        "Adds a background image"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 19,
-      "category": "HTML",
-      "question": "What is the purpose of the 'nowrap' attribute in an HTML table?",
-      "options": [
-        "Prevents text wrapping in table cells",
-        "Specifies a new row",
-        "Disables table borders",
-        "Allows horizontal scrolling"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 20,
-      "category": "HTML",
-      "question": "Which HTML tag is used for creating a hyperlink to an email address?",
-      "options": [
-        "&lt;email&gt;",
-        "&lt;a&gt;",
-        "&lt;link&gt;",
-        "&lt;mailto&gt;"
-      ],
-      "correctOption": 3
-    },
-    {
-      "id": 21,
-      "category": "CSS",
-      "question": "What does 'CSS' stand for?",
-      "options": [
-        "Counter Style Sheets",
-        "Computer Style Sheets",
-        "Cascading Style Sheets",
-        "Colorful Style Sheets"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 22,
-      "category": "CSS",
-      "question": "Which property is used to change the text color in CSS?",
-      "options": ["color", "text-color", "font-color", "text-style"],
-      "correctOption": 0
-    },
-    {
-      "id": 23,
-      "category": "CSS",
-      "question": "What is the purpose of the 'float' property in CSS?",
-      "options": [
-        "Aligns text to the left",
-        "Moves an element to the right or left",
-        "Increases font size",
-        "Changes background color"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 24,
-      "category": "CSS",
-      "question": "How can you select an element with id 'example' in CSS?",
-      "options": [
-        "#example",
-        ".example",
-        "&lt;example&gt;",
-        "&lt;id=example&gt;"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 25,
-      "category": "CSS",
-      "question": "What does the 'box-sizing' property in CSS control?",
-      "options": [
-        "Element visibility",
-        "Box model sizing",
-        "Text decoration",
-        "Background image size"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 26,
-      "category": "CSS",
-      "question": "Which CSS property is used for setting the background color of an element?",
-      "options": ["background-color", "color", "text-background", "bgcolor"],
-      "correctOption": 0
-    },
-    {
-      "id": 27,
-      "category": "CSS",
-      "question": "What is the purpose of the 'z-index' property in CSS?",
-      "options": [
-        "Sets the text alignment",
-        "Defines the element's position in the stacking order",
-        "Changes the font size",
-        "Controls the element's border width"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 28,
-      "category": "CSS",
-      "question": "How do you include comments in a CSS file?",
-      "options": [
-        "// This is a comment",
-        "# This is a comment",
-        "/* This is a comment */",
-        "<!-- This is a comment -->"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 29,
-      "category": "CSS",
-      "question": "What does the 'opacity' property in CSS control?",
-      "options": [
-        "Element visibility",
-        "Text size",
-        "Font weight",
-        "Background color"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 30,
-      "category": "CSS",
-      "question": "Which CSS property is used for adding shadows to text?",
-      "options": ["shadow", "text-shadow", "box-shadow", "font-shadow"],
-      "correctOption": 1
-    },
-    {
-      "id": 31,
-      "category": "CSS",
-      "question": "What does the 'position' property in CSS control?",
-      "options": [
-        "Element visibility",
-        "Text alignment",
-        "Box model positioning",
-        "Background color"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 32,
-      "category": "CSS",
-      "question": "How can you center an element horizontally in CSS?",
-      "options": [
-        "text-align: center",
-        "margin: auto",
-        "align: center",
-        "horizontal-align: center"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 33,
-      "category": "CSS",
-      "question": "What is the purpose of the 'display' property in CSS?",
-      "options": [
-        "Sets the background color",
-        "Defines the element's display type",
-        "Changes font size",
-        "Controls text alignment"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 34,
-      "category": "CSS",
-      "question": "Which CSS selector is used to select all elements with a specific class?",
-      "options": ["&lt;class&gt;", ".class", "#class", ":class"],
-      "correctOption": 1
-    },
-    {
-      "id": 35,
-      "category": "CSS",
-      "question": "What does the 'transition' property in CSS do?",
-      "options": [
-        "Adds animation to an element",
-        "Sets the element's position",
-        "Changes the font color",
-        "Increases border thickness"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 36,
-      "category": "CSS",
-      "question": "How do you select all paragraphs within a specific div in CSS?",
-      "options": ["div > p", "div p", "div .p", "div :p"],
-      "correctOption": 1
-    },
-    {
-      "id": 37,
-      "category": "CSS",
-      "question": "What is the purpose of the 'flexbox' layout in CSS?",
-      "options": [
-        "Defines text alignment",
-        "Creates a flexible box model",
-        "Changes background color",
-        "Sets font weight"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 38,
-      "category": "CSS",
-      "question": "What does the 'pseudo-class' selector target in CSS?",
-      "options": [
-        "Specific elements",
-        "Elements with a certain attribute",
-        "Elements based on their state",
-        "Child elements"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 39,
-      "category": "CSS",
-      "question": "How can you set an external link to open in a new browser window?",
-      "options": [
-        "&lt;a href='url' target='_new'&gt;",
-        "&lt;a href='url' target='_blank'&gt;",
-        "&lt;a href='url' target='_window'&gt;",
-        "&lt;a href='url' target='_external'&gt;"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 40,
-      "category": "CSS",
-      "question": "What is the purpose of the 'box-shadow' property in CSS?",
-      "options": [
-        "Sets the box model size",
-        "Adds a shadow to an element",
-        "Changes font color",
-        "Defines element visibility"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 41,
-      "category": "JavaScript",
-      "question": "What is JavaScript?",
-      "options": [
-        "A coffee brand",
-        "A programming language",
-        "A style of writing",
-        "A type of coffee"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 42,
-      "category": "JavaScript",
-      "question": "Which keyword is used to declare a variable in JavaScript?",
-      "options": ["var", "let", "const", "variable"],
-      "correctOption": 0
-    },
-    {
-      "id": 43,
-      "category": "JavaScript",
-      "question": "What does 'NaN' stand for in JavaScript?",
-      "options": [
-        "Not a Number",
-        "Newly Assigned Number",
-        "Negative and Null",
-        "Number and Null"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 44,
-      "category": "JavaScript",
-      "question": "Which function is used to print something in the console in JavaScript?",
-      "options": ["console.log()", "print()", "log()", "write()"],
-      "correctOption": 0
-    },
-    {
-      "id": 45,
-      "category": "JavaScript",
-      "question": "What is the purpose of the 'typeof' operator in JavaScript?",
-      "options": [
-        "Checks the type of a variable",
-        "Assigns a variable type",
-        "Declares a new variable",
-        "Prints the variable type"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 46,
-      "category": "JavaScript",
-      "question": "How do you declare a function in JavaScript?",
-      "options": [
-        "function myFunction()",
-        "declare function myFunction()",
-        "var myFunction = function()",
-        "function = myFunction()"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 47,
-      "category": "JavaScript",
-      "question": "What is an example of a falsy value in JavaScript?",
-      "options": ["0", "true", "null", "undefined"],
-      "correctOption": 2
-    },
-    {
-      "id": 48,
-      "category": "JavaScript",
-      "question": "What does 'AJAX' stand for?",
-      "options": [
-        "Asynchronous JavaScript and XML",
-        "All JavaScript and XML",
-        "Advanced JavaScript and XML",
-        "Asynchronous JavaScript and XHTML"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 49,
-      "category": "JavaScript",
-      "question": "How can you add a comment in JavaScript?",
-      "options": [
-        "// This is a comment",
-        "# This is a comment",
-        "/* This is a comment */",
-        "<!-- This is a comment -->"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 50,
-      "category": "JavaScript",
-      "question": "Which operator is used for equality comparison in JavaScript?",
-      "options": ["==", "===", "!=", "!=="],
-      "correctOption": 1
-    },
-    {
-      "id": 51,
-      "category": "JavaScript",
-      "question": "What is the purpose of the 'this' keyword in JavaScript?",
-      "options": [
-        "Refers to the current HTML document",
-        "Refers to the current function",
-        "Refers to the current object",
-        "Refers to the global scope"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 52,
-      "category": "JavaScript",
-      "question": "What is an example of an arrow function in JavaScript?",
-      "options": [
-        "(x) => x + 1",
-        "function(x) { return x + 1; }",
-        "function x => x + 1",
-        "(function(x) { return x + 1; })"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 53,
-      "category": "JavaScript",
-      "question": "What does 'JSON' stand for?",
-      "options": [
-        "JavaScript Object Notation",
-        "JavaScript Object Naming",
-        "JavaScript Operation Network",
-        "JavaScript Online Notation"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 54,
-      "category": "JavaScript",
-      "question": "Which method is used to add a new element to the end of an array in JavaScript?",
-      "options": ["push()", "append()", "addToEnd()", "insertEnd()"],
-      "correctOption": 0
-    },
-    {
-      "id": 55,
-      "category": "JavaScript",
-      "question": "What is the purpose of the 'setTimeout' function in JavaScript?",
-      "options": [
-        "Delays the execution of a function",
-        "Sets a timer for animations",
-        "Controls the speed of a loop",
-        "Runs a function immediately"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 56,
-      "category": "JavaScript",
-      "question": "Which method is used to remove the last element from an array in JavaScript?",
-      "options": ["removeLast()", "pop()", "deleteLast()", "extractLast()"],
-      "correctOption": 1
-    },
-    {
-      "id": 57,
-      "category": "JavaScript",
-      "question": "What is the purpose of the 'try...catch' statement in JavaScript?",
-      "options": [
-        "Defines a new variable",
-        "Handles errors in code",
-        "Creates a loop",
-        "Declares a function"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 58,
-      "category": "JavaScript",
-      "question": "Which function is used to convert a string to an integer in JavaScript?",
-      "options": [
-        "parseInt()",
-        "stringToInteger()",
-        "convertToInt()",
-        "toInteger()"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 59,
-      "category": "JavaScript",
-      "question": "What is the purpose of the 'map' method in JavaScript?",
-      "options": [
-        "Applies a function to each element of an array",
-        "Creates a new array with specified values",
-        "Filters elements in an array",
-        "Joins multiple arrays into one"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 60,
-      "category": "JavaScript",
-      "question": "How can you check if a variable is an array in JavaScript?",
-      "options": [
-        "isArray()",
-        "isTypeOf('array')",
-        "typeofArray()",
-        "checkArray()"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 61,
-      "category": "Accessibility",
-      "question": "What does WCAG stand for in the context of web accessibility?",
-      "options": [
-        "Web Content Advisory Guidelines",
-        "Web Compatibility Analysis Guide",
-        "Web Content Accessibility Guidelines",
-        "Web Code Assessment Group"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 62,
-      "category": "Accessibility",
-      "question": "What is the purpose of alternative text (alt attribute) for images in HTML?",
-      "options": [
-        "To change the image color",
-        "To specify the image size",
-        "To provide a description for screen readers",
-        "To hide the image from users"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 63,
-      "category": "Accessibility",
-      "question": "Which HTML element is used to define a logical structure and hierarchy for web content?",
-      "options": [
-        "&lt;structure&gt;",
-        "&lt;semantic&gt;",
-        "&lt;hierarchy&gt;",
-        "&lt;section&gt;"
-      ],
-      "correctOption": 3
-    },
-    {
-      "id": 64,
-      "category": "Accessibility",
-      "question": "What is the purpose of ARIA (Accessible Rich Internet Applications) in web development?",
-      "options": [
-        "To style web pages",
-        "To enhance audio effects",
-        "To improve user interactions for people with disabilities",
-        "To create animations"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 65,
-      "category": "Accessibility",
-      "question": "How can you ensure a website is accessible to users with color blindness?",
-      "options": [
-        "By using only black and white colors",
-        "By avoiding the use of color alone to convey information",
-        "By using vibrant and contrasting colors",
-        "By using images instead of text"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 66,
-      "category": "Accessibility",
-      "question": "What is the purpose of semantic HTML elements (e.g., &lt;header&gt;, &lt;nav&gt;, &lt;article&gt;)?",
-      "options": [
-        "To add decorative elements to the page",
-        "To structure content and provide meaning",
-        "To hide content from users",
-        "To apply custom styles easily"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 67,
-      "category": "Accessibility",
-      "question": "Why is it important to provide keyboard navigation on a website?",
-      "options": [
-        "To speed up the website loading time",
-        "To enhance visual design",
-        "To make the website accessible to users with mobility impairments",
-        "To improve search engine optimization"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 68,
-      "category": "Accessibility",
-      "question": "What is the purpose of the 'tabindex' attribute in HTML?",
-      "options": [
-        "To set the tab order of elements for keyboard navigation",
-        "To control the visibility of elements",
-        "To create tabs in the browser",
-        "To set the color of text"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 69,
-      "category": "Accessibility",
-      "question": "How can you create a focus indicator for interactive elements in CSS?",
-      "options": [
-        "Using the 'focus-style' property",
-        "Applying the 'focus-indicator' class",
-        "By default, browsers provide a focus indicator",
-        "Adding a border to the element"
-      ],
-      "correctOption": 3
-    },
-    {
-      "id": 70,
-      "category": "Accessibility",
-      "question": "What is the purpose of the 'aria-live' attribute in ARIA?",
-      "options": [
-        "To define the live streaming content on a webpage",
-        "To notify screen readers of dynamically changing content",
-        "To control the live video playback",
-        "To style elements based on user interactions"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 71,
-      "category": "Accessibility",
-      "question": "What is the role of screen readers in web accessibility?",
-      "options": [
-        "To capture screenshots of web pages",
-        "To provide voice commands for users",
-        "To translate web content to different languages",
-        "To read aloud the content of a webpage for users with visual impairments"
-      ],
-      "correctOption": 3
-    },
-    {
-      "id": 72,
-      "category": "Accessibility",
-      "question": "How can you create accessible forms in HTML?",
-      "options": [
-        "By using complex layouts",
-        "By providing clear and concise labels for form elements",
-        "By using only placeholder text",
-        "By avoiding the use of forms altogether"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 73,
-      "category": "Accessibility",
-      "question": "What is the purpose of the 'role' attribute in ARIA?",
-      "options": [
-        "To set the color of an element",
-        "To define the role or purpose of an element for accessibility",
-        "To control the visibility of an element",
-        "To create a rollover effect"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 74,
-      "category": "Accessibility",
-      "question": "How can you provide a text alternative for multimedia content?",
-      "options": [
-        "By using a small font size",
-        "By adding a 'title' attribute",
-        "By using descriptive text or captions",
-        "By using bright and flashy colors"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 75,
-      "category": "Accessibility",
-      "question": "Why is it important to ensure that web content is navigable with a keyboard?",
-      "options": [
-        "To enhance the visual design",
-        "To improve performance",
-        "To make the website accessible to users with motor disabilities",
-        "To increase page load speed"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 76,
-      "category": "Accessibility",
-      "question": "What is the purpose of the 'aria-label' attribute in ARIA?",
-      "options": [
-        "To label HTML elements for styling",
-        "To add decorative elements to the page",
-        "To provide an accessible name for an element",
-        "To create labeled sections in a document"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 77,
-      "category": "Accessibility",
-      "question": "How can you create a skip navigation link to improve accessibility?",
-      "options": [
-        "By using a large font size",
-        "By adding a 'skip' class to elements",
-        "By including a hidden link at the beginning of the page",
-        "By removing navigation links altogether"
-      ],
-      "correctOption": 2
-    },
-    {
-      "id": 78,
-      "category": "Accessibility",
-      "question": "What is the purpose of the 'aria-hidden' attribute in ARIA?",
-      "options": [
-        "To hide content from sighted users",
-        "To make an element visible to screen readers",
-        "To add decorative elements to the page",
-        "To control the background color of an element"
-      ],
-      "correctOption": 0
-    },
-    {
-      "id": 79,
-      "category": "Accessibility",
-      "question": "How can you optimize a website for users with cognitive disabilities?",
-      "options": [
-        "By using complex language and jargon",
-        "By providing clear and simple navigation",
-        "By including distracting animations",
-        "By using bright and contrasting colors"
-      ],
-      "correctOption": 1
-    },
-    {
-      "id": 80,
-      "category": "Accessibility",
-      "question": "What is the purpose of the 'aria-describedby' attribute in ARIA?",
-      "options": [
-        "To provide additional information for screen readers",
-        "To change the font size of an element",
-        "To set the background color of an element",
-        "To define a unique identifier for an element"
-      ],
-      "correctOption": 0
-    }
-  ]
+    "quizzes": [
+        {
+            "title": "HTML",
+            "icon": "./assets/images/icon-html.svg",
+            "questions": [
+                {
+                    "question": "What does HTML stand for?",
+                    "options": [
+                        "Hyper Trainer Marking Language",
+                        "Hyper Text Marketing Language",
+                        "Hyper Text Markup Language",
+                        "Hyper Text Markup Leveler"
+                    ],
+                    "answer": "Hyper Text Markup Language"
+                },
+                {
+                    "question": "Which of the following is the correct structure for an HTML document?",
+                    "options": [
+                        "<html><head></head><body></body></html>",
+                        "<head><html></html><body></body></head>",
+                        "<body><head></head><html></html></body>",
+                        "<html><body></body><head></head></html>"
+                    ],
+                    "answer": "<html><head></head><body></body></html>"
+                },
+                {
+                    "question": "Which HTML element is used to define the title of a document?",
+                    "options": [
+                        "<head>",
+                        "<title>",
+                        "<header>",
+                        "<top>"
+                    ],
+                    "answer": "<title>"
+                },
+                {
+                    "question": "What is the purpose of the <body> tag in HTML?",
+                    "options": [
+                        "It defines the document's head section.",
+                        "It contains all the content such as text, images, and links.",
+                        "It is used to define the main content of an HTML document.",
+                        "It specifies the body of the email content in HTML."
+                    ],
+                    "answer": "It contains all the content such as text, images, and links."
+                },
+                {
+                    "question": "Which HTML tag is used to create a hyperlink?",
+                    "options": [
+                        "<hyperlink>",
+                        "<link>",
+                        "<a>",
+                        "<href>"
+                    ],
+                    "answer": "<a>"
+                },
+                {
+                    "question": "Which tag is used to display images in HTML?",
+                    "options": [
+                        "<img>",
+                        "<image>",
+                        "<src>",
+                        "<pic>"
+                    ],
+                    "answer": "<img>"
+                },
+                {
+                    "question": "What attribute is used to provide the path of an image in the <img> tag?",
+                    "options": [
+                        "link",
+                        "src",
+                        "href",
+                        "url"
+                    ],
+                    "answer": "src"
+                },
+                {
+                    "question": "Which HTML tag is used to create an unordered list?",
+                    "options": [
+                        "<ul>",
+                        "<ol>",
+                        "<list>",
+                        "<li>"
+                    ],
+                    "answer": "<ul>"
+                },
+                {
+                    "question": "What does the <br> tag do?",
+                    "options": [
+                        "It breaks the text into two sections.",
+                        "It creates a bold text.",
+                        "It inserts a line break.",
+                        "It adds a new row in a table."
+                    ],
+                    "answer": "It inserts a line break."
+                },
+                {
+                    "question": "In HTML, what does the `fieldset` tag do?",
+                    "options": [
+                        "It is used to group related data in a form.",
+                        "It sets the field to a fixed size.",
+                        "It automatically validates the fields within a form.",
+                        "It hides the fields in a form."
+                    ],
+                    "answer": "It is used to group related data in a form."
+                }
+            ]
+        },
+        {
+            "title": "CSS",
+            "icon": "./assets/images/icon-css.svg",
+            "questions": [
+                {
+                    "question": "What does CSS stand for?",
+                    "options": [
+                        "Colorful Style Sheets",
+                        "Computer Style Sheets",
+                        "Cascading Style Sheets",
+                        "Creative Style Sheets"
+                    ],
+                    "answer": "Cascading Style Sheets"
+                },
+                {
+                    "question": "Which HTML attribute is used to define inline styles?",
+                    "options": [
+                        "styles",
+                        "style",
+                        "class",
+                        "font-style"
+                    ],
+                    "answer": "style"
+                },
+                {
+                    "question": "How do you insert a comment in a CSS file?",
+                    "options": [
+                        "// this is a comment //",
+                        "/* this is a comment */",
+                        "-- this is a comment --",
+                        "<!-- this is a comment -->"
+                    ],
+                    "answer": "/* this is a comment */"
+                },
+                {
+                    "question": "Which property is used to change the background color of an element?",
+                    "options": [
+                        "color",
+                        "bgcolor",
+                        "background-color",
+                        "background"
+                    ],
+                    "answer": "background-color"
+                },
+                {
+                    "question": "How do you apply a style to all <p> elements?",
+                    "options": [
+                        "p { }",
+                        ".p { }",
+                        "#p { }",
+                        "all.p { }"
+                    ],
+                    "answer": "p { }"
+                },
+                {
+                    "question": "Which property is used to change the font of an element?",
+                    "options": [
+                        "font-style",
+                        "text-style",
+                        "font-family",
+                        "typeface"
+                    ],
+                    "answer": "font-family"
+                },
+                {
+                    "question": "How do you make each word in a text start with a capital letter?",
+                    "options": [
+                        "text-transform: capitalize",
+                        "text-transform: uppercase",
+                        "text-style: capital",
+                        "font-transform: capitalize"
+                    ],
+                    "answer": "text-transform: capitalize"
+                },
+                {
+                    "question": "How do you select an element with the class name 'header'?",
+                    "options": [
+                        ".header",
+                        "#header",
+                        "header",
+                        "*header"
+                    ],
+                    "answer": ".header"
+                },
+                {
+                    "question": "What is the default value of the 'position' property?",
+                    "options": [
+                        "relative",
+                        "fixed",
+                        "absolute",
+                        "static"
+                    ],
+                    "answer": "static"
+                },
+                {
+                    "question": "What is the purpose of the z-index property in CSS?",
+                    "options": [
+                        "To count the number of elements",
+                        "To set the magnification level of an element",
+                        "To specify the stack order of an element",
+                        "To create a zoom effect"
+                    ],
+                    "answer": "To specify the stack order of an element"
+                }
+            ]
+        },
+        {
+            "title": "JavaScript",
+            "icon": "./assets/images/icon-js.svg",
+            "questions": [
+                {
+                    "question": "Which syntax is correct to output 'Hello World' in an alert box?",
+                    "options": [
+                        "alertBox('Hello World');",
+                        "msg('Hello World');",
+                        "alert('Hello World');",
+                        "msgBox('Hello World');"
+                    ],
+                    "answer": "alert('Hello World');"
+                },
+                {
+                    "question": "How do you call a function named 'myFunction'?",
+                    "options": [
+                        "call function myFunction()",
+                        "call myFunction()",
+                        "myFunction()",
+                        "execute myFunction()"
+                    ],
+                    "answer": "myFunction()"
+                },
+                {
+                    "question": "How to write an IF statement in JavaScript?",
+                    "options": [
+                        "if i = 5 then",
+                        "if (i == 5)",
+                        "if i == 5",
+                        "if i = 5"
+                    ],
+                    "answer": "if (i == 5)"
+                },
+                {
+                    "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+                    "options": [
+                        "if (i <> 5)",
+                        "if i =! 5 then",
+                        "if (i != 5)",
+                        "if i not = 5"
+                    ],
+                    "answer": "if (i != 5)"
+                },
+                  {
+                    "question": "How does a FOR loop start?",
+                    "options": [
+                        "for (i = 0; i <= 5)",
+                        "for i = 1 to 5",
+                        "for (i <= 5; i++)",
+                        "for (i = 0; i <= 5; i++)"
+                    ],
+                    "answer": "for (i = 0; i <= 5; i++)"
+                },
+                {
+                    "question": "How can you add a single-line comment in JavaScript?",
+                    "options": [
+                      "'This is a single-line comment",
+                      "//This is a single-line comment",
+                      "<!--This is a single-line comment-->",
+                      "/* This is a single-line comment */"
+                    ],
+                    "answer": "//This is a single-line comment"
+                },
+                {
+                    "question": "What is the correct way to write a JavaScript array?",
+                    "options": [
+                        "var colors = (1:'red', 2:'green', 3:'blue')",
+                        "var colors = ['red', 'green', 'blue']",
+                        "var colors = 'red', 'green', 'blue'",
+                        "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')"
+                    ],
+                    "answer": "var colors = ['red', 'green', 'blue']"
+                },
+                {
+                    "question": "How do you find the number with the highest value of x and y?",
+                    "options": [
+                        "Math.ceil(x, y)",
+                        "top(x, y)",
+                        "Math.max(x, y)",
+                        "Math.highest(x, y)"
+                    ],
+                    "answer": "Math.max(x, y)"
+                },
+                {
+                    "question": "Which operator is used to assign a value to a variable?",
+                    "options": [
+                        "-",
+                        "*",
+                        "=",
+                        "x"
+                    ],
+                    "answer": "="
+                },
+                {
+                    "question": "What is the correct way to write a JavaScript object?",
+                    "options": [
+                        "var person = {firstName: 'John', lastName: 'Doe'};",
+                        "var person = {firstName = 'John', lastName = 'Doe'};",
+                        "var person = (firstName: 'John', lastName: 'Doe');",
+                        "var person = (firstName = 'John', lastName = 'Doe');"
+                    ],
+                    "answer": "var person = {firstName: 'John', lastName: 'Doe'};"
+                }
+            ]
+        },
+        {
+            "title": "Accessibility",
+            "icon": "./assets/images/icon-accessibility.svg",
+            "questions": [
+                {
+                    "question": "What does 'WCAG' stand for?",
+                    "options": [
+                        "Web Content Accessibility Guidelines",
+                        "Web Compliance Accessibility Guide",
+                        "Web Content Accessibility Goals",
+                        "Website Compliance and Accessibility Guidelines"
+                    ],
+                    "answer": "Web Content Accessibility Guidelines"
+                },
+                {
+                    "question": "Which element is used to provide alternative text for images for screen reader users?",
+                    "options": [
+                        "<alt>",
+                        "<figcaption>",
+                        "<description>",
+                        "<img alt='description'>"
+                    ],
+                    "answer": "<img alt='description'>"
+                },
+                {
+                    "question": "What does ARIA stand for in web development?",
+                    "options": [
+                        "Accessible Rich Internet Applications",
+                        "Advanced Responsive Internet Assistance",
+                        "Accessible Responsive Internet Applications",
+                        "Automated Responsive Internet Actions"
+                    ],
+                    "answer": "Accessible Rich Internet Applications"
+                },
+                {
+                    "question": "Which of the following is not a principle of the WCAG?",
+                    "options": [
+                        "Perceivable",
+                        "Dependable",
+                        "Operable",
+                        "Understandable"
+                    ],
+                    "answer": "Dependable"
+                },
+                {
+                    "question": "Which of these color contrast ratios defines the minimum WCAG 2.1 Level AA requirement for normal text?",
+                    "options": [
+                        "3:1",
+                        "4.5:1",
+                        "7:1",
+                        "2:1"
+                    ],
+                    "answer": "4.5:1"
+                },
+                {
+                    "question": "Which of the following elements is inherently focusable, meaning it can receive focus without a 'tabindex' attribute?",
+                    "options": [
+                        "<div>",
+                        "<span>",
+                        "<a href='...'>",
+                        "<p>"
+                    ],
+                    "answer": "<a href='...'>"
+                },
+                {
+                    "question": "What is the purpose of the 'lang' attribute in an HTML page?",
+                    "options": [
+                        "To specify the scripting language",
+                        "To define the character set",
+                        "To indicate the language of the page content",
+                        "To declare a language pack"
+                    ],
+                    "answer": "To indicate the language of the page content"
+                },
+                {
+                    "question": "Which guideline ensures that content is accessible by keyboard as well as by mouse?",
+                    "options": [
+                        "Keyboard Accessible",
+                        "Mouse Independence",
+                        "Device Independence",
+                        "Operable Controls"
+                    ],
+                    "answer": "Keyboard Accessible"
+                },
+                {
+                    "question": "What is the role of 'skip navigation' links in web accessibility?",
+                    "options": [
+                        "To skip over primary navigation to the main content",
+                        "To provide shortcuts to different sections of the website",
+                        "To help users skip unwanted sections like advertisements",
+                        "To bypass broken links in the navigation"
+                    ],
+                    "answer": "To skip over primary navigation to the main content"
+                },
+                {
+                    "question": "Which of these tools can help in checking the accessibility of a website?",
+                    "options": [
+                        "W3C Validator",
+                        "Google Lighthouse",
+                        "CSS Validator",
+                        "JavaScript Console"
+                    ],
+                    "answer": "Google Lighthouse"
+                }
+            ]
+        }
+    ]
 }

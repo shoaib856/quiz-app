@@ -1,8 +1,8 @@
 import api from "../data.json";
 
-const categories = Array.from(new Set(api.questions.map((q) => q.category)));
+const categories = api.quizzes.map((quiz) => quiz.title);
 
 const categoryQuestions = (cat?: string) =>
-  api.questions.filter((q) => q.category === cat);
+  api.quizzes.filter((q) => q.title === cat).map((q) => q.questions).flat();
 
 export { categories, categoryQuestions };

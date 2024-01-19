@@ -3,7 +3,7 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import RootLayout from "./RootLayout";
 
 const Home = lazy(() => import("./Home"));
-const Quiz = lazy(() => import("./Quiz"));
+const Quiz = lazy(() => import("./Quiz/Quiz"));
 
 const AppRouter = () => {
   const routes = createBrowserRouter([

@@ -8,6 +8,12 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+body.dark {
+  @apply bg-dark-navy;
+  background-image: url(../src/assets/images/pattern-background-desktop-dark.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 @font-face {
   font-family: "Rubik";
@@ -18,6 +24,6 @@ body {
   src: url(../src/assets/fonts/Rubik-Italic-VariableFont_wght.ttf);
 }
 
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   width: 0;
 }
